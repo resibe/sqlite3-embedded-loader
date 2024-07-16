@@ -1,0 +1,19 @@
+{
+  "name": "sqlite3-embedded-loader",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VectorAlgorithm/sqlite3-embedded-loader"
+  },
+  "keywords": [
+    "sqlite3",
+    "bundle",
+    "compilation",
+    "webpack",
+    "loader"
+  ],
+  "author": "VectorAlgorithm",
+  "license": "MIT",
+  "description": "Sqlite3 webpack loader for single executable compilation without node_modules"
+}
